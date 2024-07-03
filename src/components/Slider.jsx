@@ -31,7 +31,7 @@ const Slider = () => {
 
   return (
     <div className="text-center mb-8 bg-[#D4BFFF] py-7">
-      <h2 className="text-2xl font-semibold text-[#7440DE] mb-1 ">
+      <h2 className="text-4xl font-semibold text-[#7440DE] mb-1 ">
         Our Achievements
       </h2>
       <p className="text-gray-700 m-auto w-[70%]">

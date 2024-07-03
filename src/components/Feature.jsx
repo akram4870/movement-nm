@@ -3,31 +3,31 @@ const features = [
   {
     name: 'Exercise Variety',
     description:
-      'Offers a range of exercises to keep rehabilitation engaging and effective.',
+      'Offers a range of exercises to keep rehabilitation engaging and effective, ensuring users stay motivated and make consistent progress.',
     icon: CloudUploadIcon,
   },
-  {
+  { 
     name: 'Hand Tracking',
     description:
-      'Uses advanced hand-tracking technology to monitor and guide movements.',
+      'Uses advanced hand-tracking technology to monitor and guide movements, ensuring exercises are performed correctly.',
     icon: LockClosedIcon,
   },
   {
     name: 'Gamification',
     description:
-      'Incorporates game-like elements to make rehabilitation fun and motivating.',
+      'Incorporates game-like elements to make rehabilitation fun and motivating, transforming the recovery process into an enjoyable experience.',
     icon: ArrowNarrowRightIcon,
   },
   {
     name: 'Real-Time Feedback',
     description:
-      'Provides instant feedback to help users improve their performance.',
+      'Provides instant feedback to help users improve their performance by offering immediate insights into the accuracy and quality of movements.',
     icon: FingerPrintIcon,
   },
   {
     name: 'Progress Tracking',
     description:
-      'Tracks user progress over time to monitor improvements and adjust exercises.',
+      'Tracks user progress over time to monitor improvements and adjust exercises, helping users and therapists set realistic goals and tailor activities.',
     icon: FingerPrintIcon,
   }
 ]
@@ -37,13 +37,9 @@ export default function Feature() {
     <div className="bg-white py-10 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl lg:text-center">
-        <h2 className="text-2xl font-semibold leading-7 text-indigo-600">Features</h2>
-        <p className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
-            Everything you need to deploy your app
-          </p>
+        <h2 className="text-4xl font-semibold leading-7 text-indigo-600">Our Features</h2>
           <p className="mt-6 text-lg leading-8 text-gray-600">
-            Quis tellus eget adipiscing convallis sit sit eget aliquet quis. Suspendisse eget egestas a elementum
-            pulvinar et feugiat blandit at. In mi viverra elit nunc.
+          Explore moveMate's innovative features, empowering stroke survivors to regain mobility and independence with an engaging and effective rehabilitation journey.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">

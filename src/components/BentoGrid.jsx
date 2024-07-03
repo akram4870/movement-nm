@@ -11,7 +11,7 @@ const BentoGrid = () => {
         <div className="md:w-[50%] flex flex-col m-10 justify-start ">
           <h2 className="text-3xl font-bold text-[#7440DE]">Mission</h2>
           <p className="text-lg mt-4">
-            Our mission is to provide personalized rehabilitation services to improve the quality of life for our clients.
+          MoveMate is dedicated to transforming stroke rehabilitation by providing gamified exercises that are both fun and effective. Our mission is to leverage cutting-edge technology to deliver personalized, data-driven therapy that motivates patients, tracks their progress, and bridges the gap between healthcare providers and patients, regardless of their location.
           </p>
         </div>
       </div>
@@ -21,7 +21,7 @@ const BentoGrid = () => {
         <div className="md:w-[50%] flex flex-col m-10 justify-start">
         <h2 className="text-3xl font-bold text-[#7440DE]">Vision</h2>
           <p className="text-lg">
-            MoveMate is dedicated to helping individuals recover and regain independence through innovative and effective rehabilitation programs.
+          To transform the landscape of stroke rehabilitation by offering cutting-edge, interactive, and personalized therapy that improves patient outcomes and quality of life, ensuring every patient receives engaging and effective care.
           </p>
         </div>
         <div className="md:w-[40%]">
