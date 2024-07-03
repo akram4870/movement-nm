@@ -3,12 +3,12 @@ import React, { useState, useEffect } from "react";
 const Slider = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [images, setImages] = useState([
-    { title: "Image 1", src: "sample.jpeg" },
-    { title: "Image 2", src: "sample.jpeg" },
-    { title: "Image 3", src: "sample.jpeg" },
-    { title: "Image 4", src: "sample.jpeg" },
-    { title: "Image 5", src: "sample.jpeg" },
-    { title: "Image 6", src: "sample.jpeg" },
+    { title: "Devthon 1st Runners up", src: "Devthon.jpg" },
+    { title: "CodeSprint Winners 2024", src: "codesprint1.jpg" },
+    { title: "CodeSprint Winners 2024", src: "codesprint2.jpg" },
+    { title: "CodeSprint Winners 2024", src: "codesprint3.jpg" },
+    { title: "Dialog Innovation Challenge 2024", src: "Dialog.jpg" },
+    { title: "Team", src: "Team.jpg" },
   ]);
 
   useEffect(() => {
