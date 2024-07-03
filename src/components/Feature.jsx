@@ -25,7 +25,7 @@ const features = [
     icon: FingerPrintIcon,
   },
   {
-    name: 'Real-Time Feedback',
+    name: 'Progress Tracking',
     description:
       'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
     icon: FingerPrintIcon,
