@@ -3,31 +3,31 @@ const features = [
   {
     name: 'Exercise Variety',
     description:
-      'Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.',
+      'Offers a range of exercises to keep rehabilitation engaging and effective.',
     icon: CloudUploadIcon,
   },
   {
     name: 'Hand Tracking',
     description:
-      'Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.',
+      'Uses advanced hand-tracking technology to monitor and guide movements.',
     icon: LockClosedIcon,
   },
   {
     name: 'Gamification',
     description:
-      'Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.',
+      'Incorporates game-like elements to make rehabilitation fun and motivating.',
     icon: ArrowNarrowRightIcon,
   },
   {
     name: 'Real-Time Feedback',
     description:
-      'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+      'Provides instant feedback to help users improve their performance.',
     icon: FingerPrintIcon,
   },
   {
     name: 'Progress Tracking',
     description:
-      'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+      'Tracks user progress over time to monitor improvements and adjust exercises.',
     icon: FingerPrintIcon,
   }
 ]
