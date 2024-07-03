@@ -13,7 +13,7 @@ const Hero = () => {
         </div>
         {/* Right Column */}
         <div className="p-5 lg:w-1/2">
-          <img src="amico.png" alt="Amico" className="w-full h-auto" />
+        <img src="moveMateapp.png" alt="Amico" width="400" height="auto" />
         </div>
       </div>
     </div>  
