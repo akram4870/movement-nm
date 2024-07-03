@@ -32,16 +32,10 @@ const Slider = () => {
   return (
     <div className="text-center mb-8 bg-[#D4BFFF] py-7">
       <h2 className="text-2xl font-semibold text-[#7440DE] mb-1 ">
-        Evidence-based treatment
-      </h2>
-      <h2 className="text-2xl font-semibold text-[#7440DE] mb-4">
-        Whenever and wherever you want with ReHand
+        Our Achievements
       </h2>
       <p className="text-gray-700 m-auto w-[70%]">
-        ReHand is not just an app, it is a method to prescribe, treat, and
-        monitor your patients. Select the exercises that best suit the pathology
-        or the functionality that you want to work with your patient. Some
-        are...
+        moveMate has gained recognition by winning multiple competitions for its innovative approach to brain-stroke hand-motor rehabilitation.
       </p>
       <div className="flex flex-wrap justify-center mt-8">
         {getImagesToShow().map((image, index) => (

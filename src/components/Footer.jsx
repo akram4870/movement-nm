@@ -10,10 +10,7 @@ function Footer() {
               <img className="h-6 w-auto" src="logo.png" alt="" />
             </div>
 
-            <p className="mt-4 max-w-xs text-gray-500">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse non
-              cupiditate quae nam molestias.
-            </p>
+            <p className="mt-4 max-w-xs text-gray-500">Transforming brain-stroke rehabilitation with innovative hand-tracking technology. Empowering recovery through engaging exercises and real-time progress tracking.</p>
 
             <ul className="mt-8 flex gap-6">
               <li>
@@ -115,7 +112,7 @@ function Footer() {
                   target="_blank"
                   className="text-gray-700 transition hover:opacity-75"
                 >
-                  <span className="sr-only">Dribbble</span>
+                  <span className="sr-only">Dribble</span>
 
                   <svg
                     className="h-6 w-6"
@@ -209,7 +206,7 @@ function Footer() {
                     className="text-gray-700 transition hover:opacity-75"
                   >
                     {" "}
-                    +94 771234567{" "}
+                    +94 77 600 1732{" "}
                   </a>
                 </li>
 
@@ -221,7 +218,7 @@ function Footer() {
                     className="text-gray-700 transition hover:opacity-75"
                   >
                     {" "}
-                    movemate@gmail.com{" "}
+                    movemate100@gmail.com{" "}
                   </a>
                 </li>
               </ul>
@@ -230,7 +227,7 @@ function Footer() {
         </div>
 
         <p className="text-xs text-gray-500">
-          &copy; 2022. Company Name. All rights reserved.
+          &copy; 2024. moveMate. All rights reserved.
         </p>
       </div>
     </footer>
