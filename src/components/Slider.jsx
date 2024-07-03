@@ -5,9 +5,9 @@ const Slider = () => {
   const [images, setImages] = useState([
     { title: "Devthon 1st Runners up", src: "Devthon.jpg" },
     { title: "CodeSprint Winners 2024", src: "codesprint1.jpg" },
+    { title: "Dialog Innovation Challenge 2024", src: "Dialog.jpg" },
     { title: "CodeSprint Winners 2024", src: "codesprint2.jpg" },
     { title: "CodeSprint Winners 2024", src: "codesprint3.jpg" },
-    { title: "Dialog Innovation Challenge 2024", src: "Dialog.jpg" },
     { title: "Team", src: "Team.jpg" },
   ]);
 

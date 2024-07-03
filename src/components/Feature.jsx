@@ -1,29 +1,35 @@
 import { ArrowNarrowRightIcon, CloudUploadIcon, FingerPrintIcon, LockClosedIcon } from '@heroicons/react/outline'
 const features = [
   {
-    name: 'Push to deploy',
+    name: 'Exercise Variety',
     description:
       'Morbi viverra dui mi arcu sed. Tellus semper adipiscing suspendisse semper morbi. Odio urna massa nunc massa.',
     icon: CloudUploadIcon,
   },
   {
-    name: 'SSL certificates',
+    name: 'Hand Tracking',
     description:
       'Sit quis amet rutrum tellus ullamcorper ultricies libero dolor eget. Sem sodales gravida quam turpis enim lacus amet.',
     icon: LockClosedIcon,
   },
   {
-    name: 'Simple queues',
+    name: 'Gamification',
     description:
       'Quisque est vel vulputate cursus. Risus proin diam nunc commodo. Lobortis auctor congue commodo diam neque.',
     icon: ArrowNarrowRightIcon,
   },
   {
-    name: 'Advanced security',
+    name: 'Real-Time Feedback',
     description:
       'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
     icon: FingerPrintIcon,
   },
+  {
+    name: 'Real-Time Feedback',
+    description:
+      'Arcu egestas dolor vel iaculis in ipsum mauris. Tincidunt mattis aliquet hac quis. Id hac maecenas ac donec pharetra eget.',
+    icon: FingerPrintIcon,
+  }
 ]
 
 export default function Feature() {
